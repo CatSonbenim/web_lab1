@@ -1,0 +1,57 @@
+h1 {
+	color: #246bbd;
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+	font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+}
+
+p, .linked_text, .inputed_text{
+	text-align: right;
+	color: #8c4685;
+}
+
+.image1 img{
+	float: right;
+	margin: 5px 10px 5px 10px;
+	box-shadow: 6px -6px 15px 5px #1e213d;
+	max-height: 360px;
+	max-width: 640px;
+	height: 100%;
+	width: 100%;
+}
+
+a {
+	color = #1e213d;
+	font-family: 'Book Antiqua', Palatino, 'Palatino Linotype', 'Palatino LT STD', Georgia, serif;
+	font-style: italic;
+}
+
+.random_table{
+	width: 100%;
+	height: 150px;
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+
+th, td {
+	border-collapse: collapse;
+	border: 5px solid #8c4685;
+	text-align: center;
+	border-spacing: 5px;
+}
+
+caption {
+	caption-side: bottom;
+	text-align: left;
+	padding: 10px 0; 
+	font-size: 14px;
+}
+
+input{
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+	color:#0007D3;
+	border:2px solid #7A7DD6;
+	padding:5px;
+	
+}
+
