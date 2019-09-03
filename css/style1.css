@@ -1,14 +1,16 @@
-h1 {
+.syte_name {
 	color: #246bbd;
 	text-align: center;
 	font-style: italic;
-	font-size: 25px;
+	font-size: 50px;
 	font-family: Segoe, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
 }
 
-p, .linked_text, .inputed_text{
+.text, .linked_text, .inputed_text{
 	text-align: right;
 	color: #8c4685;
+	font-size: 25px;
+	line-height: 50px;
 }
 
 .image1 img{
@@ -54,4 +56,3 @@ input{
 	padding:5px;
 	
 }
-
